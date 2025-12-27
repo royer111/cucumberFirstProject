@@ -1,0 +1,3 @@
+Este es un archivo de prueba para aprender git 
+Realizando un cambio para probar el cambio de ramas 
+Realizo otro cambio despues de hacer add
