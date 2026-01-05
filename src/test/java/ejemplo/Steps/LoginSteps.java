@@ -9,7 +9,7 @@ public class LoginSteps {
 
     @Given("que abro la página de login")
     public void abrirPaginaLogin() {
-        Hooks.driver.get("https://www.instagram.com/");
+        Hooks.driver.get("https://www.mercadolibre.com.co/");
     }
 
     @When("ingreso usuario {string} y contraseña {string}")
